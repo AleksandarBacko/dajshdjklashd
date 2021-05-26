@@ -4,6 +4,7 @@ public class mamsodkasnd {
         System.out.println();
         System.out.println();
         System.out.println();
+        System.out.println();
 
     }
 }
